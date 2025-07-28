@@ -3,7 +3,7 @@
 #PROBLEM 1
 
 ```
-PSEUDOCODE
+PSEUDOCODE:-
 
 function fun(a=40, b=4):
 y = 0
@@ -14,10 +14,10 @@ y = y + 10
 print(y)
 print(fun(40, 4))
 
-APPROACH
+APPROACH:-
 a%b will results in 0 so if statement is executed y=y+1
 
-ANS
+ANS:-
 1
 ```
 --------------------------------------------------------------------------------------
