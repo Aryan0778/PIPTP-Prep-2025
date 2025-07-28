@@ -5,12 +5,12 @@
 PSEUDOCODE
 
 function fun(a=40, b=4):
-    y = 0
-    if ((b%a == 0) OR (a%b == 0))
-        y = y + 1
-    else
-        y = y + 10
-    print(y)
+y = 0
+if ((b%a == 0) OR (a%b == 0))
+y = y + 1
+else
+y = y + 10
+print(y)
 print(fun(40, 4))
 
 APPROACH
